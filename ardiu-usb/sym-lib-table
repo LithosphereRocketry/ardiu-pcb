@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/external-libs/symbols/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "MJ-63022B")(type "KiCad")(uri "${KIPRJMOD}/external-libs/symbols/MJ-63022B.kicad_sym")(options "")(descr ""))
+  (lib (name "Valve_VFD_Samsung")(type "KiCad")(uri "${KIPRJMOD}/external-libs/symbols/Valve_VFD_Samsung.kicad_sym")(options "")(descr ""))
+)

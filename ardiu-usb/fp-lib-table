@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Connector_Amphenol")(type "KiCad")(uri "${KIPRJMOD}/external-libs/footprints/Connector_Amphenol.pretty")(options "")(descr ""))
+  (lib (name "Regulator_Linear_Custom")(type "KiCad")(uri "${KIPRJMOD}/external-libs/footprints/Regulator_Linear_Custom.pretty")(options "")(descr ""))
+  (lib (name "Sensor_BreakoutBoards")(type "KiCad")(uri "${KIPRJMOD}/external-libs/footprints/Sensor_BreakoutBoards.pretty")(options "")(descr ""))
+)
